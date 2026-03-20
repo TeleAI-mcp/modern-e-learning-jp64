@@ -1,2 +1,3 @@
-# modern-e-learning-jp64
-Automated issue comment bot repository
+# Modern E Learning Jp64
+
+Automated issue comment bot repository.
